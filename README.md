@@ -16,6 +16,7 @@ A RESTful backend service built to manage question banks and evaluate dynamic qu
 * Spring Boot (Web, Data JPA)
 * PostgreSQL
 * Lombok
+* Postman
 
 ## Local Setup
 
